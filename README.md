@@ -1,4 +1,4 @@
-## Pyraft
+## PyRaft
 
 Pyraft is a Python implementation of the Raft Consensus Algorithm
 
